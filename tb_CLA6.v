@@ -1,4 +1,3 @@
-// 12224047 ¿±ø©¡ÿ
 module tb_CLA6();
     reg[5:0] in_A, in_B;
     reg c_in, clk, rst;
