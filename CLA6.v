@@ -1,6 +1,3 @@
-// 12224047 ¿±ø©¡ÿ
-// `timescale 1ns / 1ps
-
 module CLA6(
     out, c_out,
     in_A, in_B, c_in, clk, rst
